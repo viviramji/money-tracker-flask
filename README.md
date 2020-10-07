@@ -3,6 +3,6 @@
 TODO LIST 
 
 - [x] Create flask env
-- [ ] Create access to database
-- [ ] Create category blueprint
-- [ ] CRUD category
+- [x] Create access to database
+- [x] Create category blueprint
+- [x] CRUD category
